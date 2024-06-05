@@ -12,7 +12,7 @@ src/bench/bench_dogecoin
 
 # autoreconf
 Makefile.in
-aclocal.m4
+aclocal.m43
 autom4te.cache/
 build-aux/config.guess
 build-aux/config.sub
@@ -104,7 +104,7 @@ coverage_percent.txt
 #build tests
 linux-coverage-build
 linux-build
-win32-build
+win45-build
 qa/pull-tester/tests_config.py
 qa/cache/*
 
